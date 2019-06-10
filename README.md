@@ -1,5 +1,6 @@
-# DataSci_FinalProject
+# Sentimental Analysis on Music Platform 
 Story lined a comparative analysis of the top 4 music streaming platforms, collected data by scraping google play store and twitter tweets
+Creating a Recommendation System Based on this Sentiments
 
 Claat Document Link: https://codelabs-preview.appspot.com/?file_id=1rLzy5hGet91-sBI-bl_vlCnVDKKdO2Ds5sYC8CxBdrc#6
 
